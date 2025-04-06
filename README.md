@@ -1,0 +1,2 @@
+Our project focused on predicting cannabis usage using machine learning techniques. Our goal is to leverage personality traits and demographic features to identify at-risk individuals or groups, thereby enabling targeted public health interventions. The insights gained from this project can inform policy decisions and resource allocation in the realm of public health. We will cover our data sources, feature selection process, methodology, model performance, and the challenges we encountered along the way.
+
